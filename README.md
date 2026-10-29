@@ -24,4 +24,4 @@ Projeto de estudo em **Django** que exibe a temperatura atual de diferentes cida
 
 ## 👤 Autor
 
-**Pedro Bernardone** — [@pedrobernardone](https://github.com/pedrobernardone)
+**Pedro Bernardone**
